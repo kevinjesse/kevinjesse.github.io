@@ -10,6 +10,9 @@ Hi! I am a Ph.D student in natural language processing! I am interested in dialo
 
 My advisor is the wonderful [Zhou Yu](http://zhouyu.cs.ucdavis.edu).
 
+#### Contact
+	krjesse@ucdavis.edu
+
 <!-- ## Research Interest -->
 ## Teaching
 * ECS 189G Natural Language Processing
