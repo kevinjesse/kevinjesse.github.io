@@ -4,22 +4,35 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Ph.D student in natural language processing! I am interested in dialog, multimodal, and recommendation systems. I am also part of an awesome team that is competing in the [Alexa Prize](https://developer.amazon.com/alexaprize/2018/gunrock)!
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My advisor is the wonderful [Zhou Yu](http://zhouyu.cs.ucdavis.edu).
 
-## Research Interest
+<!-- ## Research Interest -->
+## Teaching
+* ECS 189G Natural Language Processing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Research Projects
+* [Chatbot](ACL2018.pdf): A Recommendation Dialog System Driven by Collaborative Filtering
+* [Knowledge Graph]() for Gunrock: An Alexa Prize Socialbot
+<!-- * [MultiModal Chatbot]() Current Project -->
+* [PUMA](PUMA.pdf): Parallel Unconcentrated Management for Applications (PUMA) Applied to Dialog Systems
+* [Lyric Generation](LyricNMT.pdf) for Maroon 5 songs using Bdahdanau Seq2Seq
+* Multimodal Dialog System
+
+[Check out my github!](https://github.com/kevinjesse)
 
 ## Publications
+1. Gunrock: An Alexa Prize Social Bot (pending Alexa Prize Finals)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Places I've Enjoyed Working!
+* Cisco Systems
+* ThinkHR
+<!-- 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
-## Typography
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -32,14 +45,14 @@ Year | Award | Category
 2014 | Satellite | Won Best Actor miniseries or television film
 
 Here is a horizontal rule
-
+ -->
 ---
-
+<!-- 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> To a great mind, nothing is little -->
 
-## References
+<!-- ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
